@@ -2,14 +2,44 @@
 
 Formalizing formal logic (mathematical logic) in Lean Theorem Prover.
 
+## Notable Results
+
+
+To find more results, refer [Catalogue], [Zoo] and README of repositories.
+
+[Catalogue]: https://formalizedformallogic.github.io/Catalogue
+[Zoo]: https://formalizedformallogic.github.io/Zoo
+
+- **Propositional Logic**
+  - Classical, intuitionistic and intermediate logics.
+  - Kripke semantics and completeness for logics.
+- **First-Order Logic**
+  - Completeness theorem.
+  - Cut-Elimination theorem.
+  - Gödel-Gentzen translation.
+- **Arithmetic**
+  - Gödel's 1st and 2nd Incompleteness Theorem.
+- **Set Theory**
+  - Consistency of ZFC.
+- **Modal Logic**
+  - Kripke semantics and neighborhood semantics, completeness w.r.t. the semantics.
+  - Modal companions.
+- **Provability Logic**
+  - Solovay's arithmetical completeness theorem.
+- **Interpretability Logic**
+  - Veltman semantics and soundness for logics.
+- **Linear Logic**
+
 ## Repositories
 
-- **[Foundation]**: Main repository of our results.
-- **[Catalogue]**: Detailed description about our results.
+- **[Foundation][github:Foundation]**: Main repository of our results.
+- **[Catalogue][github:Catalogue]**: Detailed description about our results.
+- **[Zoo][github:Zoo]**: Diagrams of strength of logics.
 
-[Foundation]: https://github.com/FormalizedFormalLogic
-[GodExistence]: https://github.com/FormalizedFormalLogic/GodExistence
-[Catalogue]: https://github.com/FormalizedFormalLogic/Catalogue
+[github:Foundation]: https://github.com/FormalizedFormalLogic
+[github:GodExistence]: https://github.com/FormalizedFormalLogic/GodExistence
+[github:Catalogue]: https://github.com/FormalizedFormalLogic/Catalogue
+[github:Zoo]: https://github.com/FormalizedFormalLogic/Zoo
 
 ## Publications
 
@@ -65,3 +95,27 @@ If you do not have a GitHub account or you think your message should remain conf
 ### Language
 
 We primary use Japanese in discussion, but English is also ok.
+
+## Financial Supports
+
+Any financial supports would be grateful for us.
+If you found this project valuable, to sustain our OSS development, please consider support us.
+
+### Open Collective
+
+[![Open Collective](https://opencollective.com/formalizedformallogic/donate/button.png?color=gray)][opencollective]
+
+We would like to thanks the following backers.
+
+[![Open Collective Backers](https://opencollective.com/formalizedformallogic/backers.svg)][opencollective:backers]
+
+[opencollective]: https://opencollective.com/formalizedformallogic
+[opencollective:backers]: https://opencollective.com/formalizedformallogic#backers
+
+### Previous Backers
+
+Individuals and organizations that have supported us in the past.
+
+- [Proxima Technology](https://proxima-ai-tech.com) (2024-2025)
+- [随時 (@zuizi)](https://x.com/zuizi) (2025-10)
+
