@@ -35,6 +35,7 @@ To find more results, refer [Catalogue], [Zoo] and README of repositories.
 - **[Foundation][github:Foundation]**: Main repository of our results.
 - **[Catalogue][github:Catalogue]**: Detailed description about our results.
 - **[Zoo][github:Zoo]**: Diagrams of strength of logics.
+- **[GodExistence][github:GodExistence]**: Formalizing Gödel's ontological argument by higher-order modal logic.
 
 [github:Foundation]: https://github.com/FormalizedFormalLogic
 [github:GodExistence]: https://github.com/FormalizedFormalLogic/GodExistence
