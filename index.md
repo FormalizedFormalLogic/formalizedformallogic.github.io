@@ -44,7 +44,9 @@ To find more results, refer [Catalogue], [Zoo] and README of repositories.
 
 ## Publications
 
-No publications in now.
+List of publications verified in Formalized Formal Logic.
+
+1. Taishi Kurahashi, Mashi Noguchi, _Very weak subintuitionistic logics_, 2026/05, [arXiv:2605.20769](https://arxiv.org/abs/2605.20769).
 
 ## Talks & Presentations
 
