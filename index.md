@@ -34,17 +34,19 @@ To find more results, refer [Catalogue], [Zoo] and README of repositories.
 
 - **[Foundation][github:Foundation]**: Main repository of our results.
 - **[Catalogue][github:Catalogue]**: Detailed description about our results.
-- **[Zoo][github:Zoo]**: Diagrams of strength of logics.
 - **[GodExistence][github:GodExistence]**: Formalizing Gödel's ontological argument by higher-order modal logic.
 
 [github:Foundation]: https://github.com/FormalizedFormalLogic
 [github:GodExistence]: https://github.com/FormalizedFormalLogic/GodExistence
 [github:Catalogue]: https://github.com/FormalizedFormalLogic/Catalogue
-[github:Zoo]: https://github.com/FormalizedFormalLogic/Zoo
 
 ## Publications
 
-List of publications verified in Formalized Formal Logic.
+Main publications of our results.
+
+1. Shogo Saitou, Mashu Noguchi, _Mechanizing Gödel's Incompleteness Theorems and Provability Logic_, 2026/09, [arXiv:2609.13780](https://arxiv.org/abs/2609.13780).
+
+List of publications verified by Formalized Formal Logic.
 
 1. Taishi Kurahashi, Mashi Noguchi, _Very weak subintuitionistic logics_, 2026/05, [arXiv:2605.20769](https://arxiv.org/abs/2605.20769).
 
@@ -71,7 +73,7 @@ List of publications verified in Formalized Formal Logic.
 
 ## Developers
 
-- Palalansoukî (Shogo Saito / 齋藤 彰悟)
+- Palalansoukî (Shogo Saitou / 齋藤 彰悟)
   - GitHub: [@iehality][Palalansoukî:github]
   - e-mail: [palalansouki@gmail.com][Palalansoukî:email]
 - SnO2WMaN (Mashu Noguchi / 野口 真柊)
