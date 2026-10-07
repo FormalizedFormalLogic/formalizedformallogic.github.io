@@ -65,8 +65,8 @@ List of publications verified in Formalized Formal Logic.
 [TPP2024]: https://www.math.nagoya-u.ac.jp/~garrigue/tpp2024
 [TPP2025]:https://tpp2025.blogspot.com/
 
-[Palalansoukî:TPP2024_slides]: https://iehality.github.io/ffl-slides/main.pdf
-[SnO2WMaN:TPP2024_slides]: https://sno2wman.github.io/slides-for-tpp2024/main.pdf
+[Palalansoukî:TPP2024_slides]: https://sno2wman.github.io/slides-for-tpp2024/main.pdf
+[SnO2WMaN:TPP2024_slides]: https://iehality.github.io/ffl-slides/main.pdf
 [SnO2WMaN:TPP2025_slides]: https://sno2wman.github.io/slides-for-tpp2025/main.pdf
 
 ## Developers
